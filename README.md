@@ -11,5 +11,9 @@ Se utilizaron datos de la pagina [monitor.unocha]("https://monitor.unocha.org/co
        - Matplotlib
        - Seaborn
        - Numpy
+
 ### Información Geográfica
 	El uso de geopandas permite visualizar en un mapa donde se presentaron mayor cantidad de Violencia Armada en Colombia en el primer semestre de 2024
+
+    Geopandas es una buena libreria para uso geografico
+
